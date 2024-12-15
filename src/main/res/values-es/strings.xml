@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="et_name">Nombre</string>
+    <string name="etp_passwd">Contraseña</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_regist">Registrarse</string>
+    <string name="tv_login">Entrar</string>
+    <string name="tv_regist">Registrarse</string>
+    <string name="etp_confPasswd">Confirmar contraseña</string>
+    <string name="to_errPasswd">Las contraseñas no coinciden</string>
+    <string name="to_registSuc">Usuario creado correctamente</string>
+    <string name="to_loginErr">Usuario o contraseña incorrecto</string>
+    <string name="to_blankErr">Debe completar todos los campos</string>
+    <string name="tv_addLang">Nuevo lenguaje de programación</string>
+    <string name="et_addingL">Agregar nuevo lenguaje</string>
+    <string name="btn_create">Crear</string>
+    <string name="to_langErr">El campo debe estar completado</string>
+    <string name="language_saved">Lenguaje guardado</string>
+    <string name="tv_newProj">Nuevo proyecto</string>
+    <string name="et_projName">Nombre del proyecto</string>
+    <string name="et_projDesc">Breve descripción</string>
+    <string name="tv_initDate">Start Date</string>
+    <string name="tv_priority">Priority</string>
+    <string name="tv_time">Time to spend</string>
+    <string name="et_timeHours">Time in hours</string>
+    <string name="tv_language">Language</string>
+    <string name="tv_projDetails">Project details</string>
+    <string name="btn_saveProj">Save Project</string>
+    <string name="btn_delete">delete</string>
+</resources>

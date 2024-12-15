@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">Projects</string>
+    <string name="et_name">Name</string>
+    <string name="etp_passwd">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_regist">Register</string>
+    <string name="tv_login">Login</string>
+    <string name="tv_regist">Register</string>
+    <string name="etp_confPasswd">Confirm Password</string>
+    <string name="to_errPasswd">Passwords don\'t match</string>
+    <string name="to_registSuc">User created successfully</string>
+    <string name="to_loginErr">Incorrect Username or Password</string>
+    <string name="to_blankErr">All fields must be completed</string>
+    <string name="tv_addLang">New programming Language</string>
+    <string name="et_addingL">Add new Language</string>
+    <string name="btn_create">create</string>
+    <string name="to_langErr">Language field must be completed</string>
+    <string name="language_saved">Language saved</string>
+    <string name="tv_newProj">New Project</string>
+    <string name="et_projName">Project Name</string>
+    <string name="et_projDesc">Brief Description</string>
+    <string name="tv_initDate">Start Date</string>
+    <string name="tv_priority">Priority</string>
+    <string name="tv_time">Time to spend</string>
+    <string name="et_timeHours">Time in hours</string>
+    <string name="tv_language">Language</string>
+    <string name="tv_projDetails">Project details</string>
+    <string name="btn_saveProj">Save Project</string>
+    <string name="btn_delete">delete</string>
+</resources>
